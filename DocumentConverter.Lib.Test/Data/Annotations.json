@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "bhassan",
+    "AnnotationType": "Text",
+    "PageNumber": 1,
+    "AnnotationIndex": 0,
+    "Subject": "Highlight",
+    "TextContents": "",
+    "CreationDate": "2021-08-10T13:32:25",
+    "ModifiedDate": "2021-08-10T13:32:25",
+    "LeftX": 104.379,
+    "TopY": 184.273,
+    "Width": 320.68699999999995,
+    "Height": 73.587000000000018
+  },
+  {
+    "Title": "bhassan",
+    "AnnotationType": "Text",
+    "PageNumber": 3,
+    "AnnotationIndex": 1,
+    "Subject": "Highlight",
+    "TextContents": "Text:This is interesting stuff.",
+    "CreationDate": "2021-08-10T13:32:57",
+    "ModifiedDate": "2021-08-10T13:33:12",
+    "LeftX": 104.386,
+    "TopY": 447.846,
+    "Width": 320.33299999999997,
+    "Height": 37.132999999999981
+  },
+  {
+    "Title": "bhassan",
+    "AnnotationType": "Text",
+    "PageNumber": 3,
+    "AnnotationIndex": 2,
+    "Subject": "Sticky Note",
+    "TextContents": "Sticky notes added programmatically",
+    "CreationDate": "2021-08-10T13:33:41",
+    "ModifiedDate": "2021-08-10T13:33:48",
+    "LeftX": 418.496,
+    "TopY": 286.534,
+    "Width": 24.0,
+    "Height": 24.0
+  },
+  {
+    "Title": "bhassan",
+    "AnnotationType": "Text",
+    "PageNumber": 4,
+    "AnnotationIndex": 3,
+    "Subject": "Inserted Text",
+    "TextContents": "Comments added programmatically",
+    "CreationDate": "2021-08-10T13:34:06",
+    "ModifiedDate": "2021-08-10T13:34:19",
+    "LeftX": 281.029,
+    "TopY": 426.61,
+    "Width": 9.7860000000000014,
+    "Height": 7.9739999999999895
+  }
+]
